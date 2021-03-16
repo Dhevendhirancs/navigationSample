@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:react-native-gesture-handler] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-toast] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-toast/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/516a4e3417aa383b7d00770c8e4a23b0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/faf71437b98b998c855ec271cea6ad09/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/425d85405df0b3e7bfa5c4406fc1551a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8d55d1892ee1a274a6cada1d5a5d0ab4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4447450a20c6dc305a7f34f454be6f50/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/abd059e5c29689dabf5573ce53fa48ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8ed4507b603758549dfbdecf681bfc3c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/3a35e547e14f8e36d4cbf8b12ee63ed9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/065a0f09e09822a9b7385b5e4b1996d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/e0949994569a20a5048c3db06367e953/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/e2a661e06f6e371910a6f7fc2545eb1c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f0c1e0f81b0980d2308e2a78b6a23d4f/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/da01852bc829f1c82641a516c477fa67/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/36e93ae5ed3eaabd1a44acc940725015/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/307e7a341f7f1ddf1ca4405a6b432388/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9aa777c03f07a70cc0c3e43ad806ef1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/112c3f26727d3495167b5a31426162e7/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/0a64360d3ac42e864dbe2542c7ea265a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8192776cdb80dceaefa72393c34d6cbe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/45246a5a1b602170384926c67176245e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f695f466fd41a2733cecd1fcb397f92d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/a00200d50256341776cd85538dc47abf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/7d9a9d404435b61968880e6caa2390fb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4af04622a38d0e0d0d60a1b5173b402c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6b97abd73ddd7a98b64edaa15476f4e6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/36e0c6469c74c6809b94920154f03985/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/139593b47a597b3f3473d1b9d82696fe/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4f836911047beaf255bb797e6a182e85/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6abc58372f11dc91616da607ea800711/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/b8945ae4a8871f5a11450be5a7660753/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9f7e0f00b6cb644f45d94f0bfe32d0a2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9bcf98ad250ac339d3d32a9fc60219c1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8b833529a827e980277eb75671d1ee44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/ac8bdfb25bd3aecbf74357a727b6482f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/35e8ac7736ca430c9e25a5e93978c481/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/18535ae3bdbe4fe48e1c4fc36d6c30dc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/2e76a730b42389207330aa5a4ead132f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/0bea54d51a7f5ce9c7e698e9fa5bfc51/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6354464c076556a8c2616605169c5864/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:6:5-32:19
+MERGED from [:react-native-splash-screen] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/516a4e3417aa383b7d00770c8e4a23b0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/516a4e3417aa383b7d00770c8e4a23b0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/425d85405df0b3e7bfa5c4406fc1551a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/425d85405df0b3e7bfa5c4406fc1551a/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f0c1e0f81b0980d2308e2a78b6a23d4f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f0c1e0f81b0980d2308e2a78b6a23d4f/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4f836911047beaf255bb797e6a182e85/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4f836911047beaf255bb797e6a182e85/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/b8945ae4a8871f5a11450be5a7660753/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/b8945ae4a8871f5a11450be5a7660753/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4f836911047beaf255bb797e6a182e85/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:10:7-40
+	android:icon
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:9:7-35
+	android:allowBackup
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.safestartsample.SplashActivity
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:14:7-22:18
+	android:label
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:theme
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:16:9-43
+	android:name
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:15:9-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.safestartsample.MainActivity
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:24:7-29:35
+	android:label
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:26:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:28:9-51
+	android:exported
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:29:9-32
+	android:configChanges
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:27:9-79
+	android:name
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:25:9-37
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:31:7-84
+	android:name
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml:31:17-81
+uses-sdk
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-toast] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-toast/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-toast] /Users/racinfrarentalllp/Desktop/safeStartSample/node_modules/react-native-toast/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/516a4e3417aa383b7d00770c8e4a23b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/516a4e3417aa383b7d00770c8e4a23b0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/faf71437b98b998c855ec271cea6ad09/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/faf71437b98b998c855ec271cea6ad09/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/425d85405df0b3e7bfa5c4406fc1551a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/425d85405df0b3e7bfa5c4406fc1551a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8d55d1892ee1a274a6cada1d5a5d0ab4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8d55d1892ee1a274a6cada1d5a5d0ab4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4447450a20c6dc305a7f34f454be6f50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4447450a20c6dc305a7f34f454be6f50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/abd059e5c29689dabf5573ce53fa48ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/abd059e5c29689dabf5573ce53fa48ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8ed4507b603758549dfbdecf681bfc3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8ed4507b603758549dfbdecf681bfc3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/3a35e547e14f8e36d4cbf8b12ee63ed9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/3a35e547e14f8e36d4cbf8b12ee63ed9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/065a0f09e09822a9b7385b5e4b1996d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/065a0f09e09822a9b7385b5e4b1996d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/e0949994569a20a5048c3db06367e953/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/e0949994569a20a5048c3db06367e953/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/e2a661e06f6e371910a6f7fc2545eb1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/e2a661e06f6e371910a6f7fc2545eb1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f0c1e0f81b0980d2308e2a78b6a23d4f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f0c1e0f81b0980d2308e2a78b6a23d4f/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/da01852bc829f1c82641a516c477fa67/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/da01852bc829f1c82641a516c477fa67/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/36e93ae5ed3eaabd1a44acc940725015/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/36e93ae5ed3eaabd1a44acc940725015/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/307e7a341f7f1ddf1ca4405a6b432388/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/307e7a341f7f1ddf1ca4405a6b432388/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9aa777c03f07a70cc0c3e43ad806ef1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9aa777c03f07a70cc0c3e43ad806ef1a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/112c3f26727d3495167b5a31426162e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/112c3f26727d3495167b5a31426162e7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/0a64360d3ac42e864dbe2542c7ea265a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/0a64360d3ac42e864dbe2542c7ea265a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8192776cdb80dceaefa72393c34d6cbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8192776cdb80dceaefa72393c34d6cbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/45246a5a1b602170384926c67176245e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/45246a5a1b602170384926c67176245e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f695f466fd41a2733cecd1fcb397f92d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/f695f466fd41a2733cecd1fcb397f92d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/a00200d50256341776cd85538dc47abf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/a00200d50256341776cd85538dc47abf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/7d9a9d404435b61968880e6caa2390fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/7d9a9d404435b61968880e6caa2390fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4af04622a38d0e0d0d60a1b5173b402c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4af04622a38d0e0d0d60a1b5173b402c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6b97abd73ddd7a98b64edaa15476f4e6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6b97abd73ddd7a98b64edaa15476f4e6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/36e0c6469c74c6809b94920154f03985/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/36e0c6469c74c6809b94920154f03985/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/139593b47a597b3f3473d1b9d82696fe/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/139593b47a597b3f3473d1b9d82696fe/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4f836911047beaf255bb797e6a182e85/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/4f836911047beaf255bb797e6a182e85/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6abc58372f11dc91616da607ea800711/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6abc58372f11dc91616da607ea800711/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/b8945ae4a8871f5a11450be5a7660753/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/b8945ae4a8871f5a11450be5a7660753/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9f7e0f00b6cb644f45d94f0bfe32d0a2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9f7e0f00b6cb644f45d94f0bfe32d0a2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9bcf98ad250ac339d3d32a9fc60219c1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/9bcf98ad250ac339d3d32a9fc60219c1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8b833529a827e980277eb75671d1ee44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/8b833529a827e980277eb75671d1ee44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/ac8bdfb25bd3aecbf74357a727b6482f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/ac8bdfb25bd3aecbf74357a727b6482f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/35e8ac7736ca430c9e25a5e93978c481/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/35e8ac7736ca430c9e25a5e93978c481/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/18535ae3bdbe4fe48e1c4fc36d6c30dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/18535ae3bdbe4fe48e1c4fc36d6c30dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/2e76a730b42389207330aa5a4ead132f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/2e76a730b42389207330aa5a4ead132f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/0bea54d51a7f5ce9c7e698e9fa5bfc51/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/0bea54d51a7f5ce9c7e698e9fa5bfc51/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6354464c076556a8c2616605169c5864/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/racinfrarentalllp/.gradle/caches/transforms-2/files-2.1/6354464c076556a8c2616605169c5864/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/racinfrarentalllp/Desktop/safeStartSample/android/app/src/main/AndroidManifest.xml

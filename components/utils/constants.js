@@ -1,0 +1,6 @@
+export const none = ''
+export const fieldUsername = 'USERNAME'
+export const fieldPassword = 'PASSWORD'
+export const productListTab = 'PRODUCT LIST TAB'
+export const profileTab = 'PROFILE TAB'
+export const themeFont = 'Prompt-Regular'
